@@ -1,0 +1,41 @@
+body { 
+    background-image: url('https://cuiet.codebrigade.in/images/Chitkara_University_pic.jpg'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 0%;
+    margin: 0%;
+    border-top: solid red 5px;
+  
+  
+  .header
+  { 
+      position: absolute; 
+        top: 0px; 
+        right: 10px;
+  
+  }
+  .log {
+    height: 530px;
+    width: 285px;
+    background-color: white;
+    position: absolute;
+    top: 15%;
+    right: 19%;
+    border: 2px solid white;
+  }
+  .user {
+    position: absolute;
+    top: 22%;
+    left: 20%;
+  }
+  .pass {
+    position: absolute;
+    top: 29%;
+    left: 20%;
+  }
+  
+  .forgot-password {
+    color: black;
+    font-size: px;
+  }
